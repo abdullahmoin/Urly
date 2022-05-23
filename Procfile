@@ -1,0 +1,1 @@
+web: gunicorn Urly.wsgi --log-file -
